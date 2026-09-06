@@ -1,6 +1,6 @@
 name: I have a Suggestion!
 description: Give a Suggestion
-labels: [ "suggestion" ]
+labels: [ "enhancement" ]
 assignees:
     - cydonik
 body:
