@@ -26,7 +26,7 @@ body:
                 - Briefiely List the features/items, included in this Addition
                 - Explain why it should be added and how it improves the modpack
 
-                If this suggestion isnt about Mods, feel free to write whatever you'd like here!
+                _If this suggestion isnt about Mods, feel free to write whatever you'd like here!_
 
     -   type: textarea
         id: description
