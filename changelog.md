@@ -1,7 +1,7 @@
-1.0
+# 1.0
 - Initial Release
 
-1.1
+# 1.1
 - Added 4 Splashes
 - **Added Create: Access Denied**
 - **Added Create: Deep Seas**
@@ -16,7 +16,7 @@
 - Configed Ambient Sounds to mute the birds & crickets
 - Removed unnecessary dependency
 
-1.1.1
+# 1.1.1
 - Added 1 Splash
 - Added 2 Images to the Gallery
 - Configed HMI to blacklist the Pipe wrench, Moss Carpet, and Pale Moss Carpet
@@ -44,7 +44,7 @@
 - Configed VB so you can access all items in bundles instead of the first 12
 - Configed HMI to blacklist Straw Beds, Shelf Mushrooms, and Copper Golems
 
-1.2.1
+# 1.2.1
 - Added Rebind Narrator
 - Updated 19 Mods
 - Fixed reset configs (Carryon, HMI)
