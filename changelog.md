@@ -24,7 +24,7 @@
 - Configed Essential Mod to (by default) keep Cosmetics visible no matter what
 - Configed Everycomp to remove Tradeworks from the blacklist
 
-1.2
+# 1.2
 - **Added Create: Redstone Link GUI**
 - **Added Sable Hose Connectors**
 - **Added Aeronautics Player Tilt**
