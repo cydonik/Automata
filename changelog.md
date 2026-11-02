@@ -50,6 +50,7 @@
 - Configed InvMove to disallow movement while the clipboard ui is open
 - Configed Ambient Sounds to mute the birds & crickets
 - Removed unnecessary dependency
+- Removed the ```:``` in the modpack name
 
 # 1.0
 - Initial Release
