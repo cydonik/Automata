@@ -1,28 +1,12 @@
-# 1.0
-- Initial Release
-
-# 1.1
-- Added 4 Splashes
-- **Added Create: Access Denied**
-- **Added Create: Deep Seas**
-- Updated 23 Mods
-- Updated Better Leaves (for upcoming update)
-- Fixed Essential Mod icon/button placement
-- Fixed Betterclouds Config
-- Configed HMI to blacklist Hanging Signs, All of Create and its Addons
-  - *If an item looks wrong/broken in your hand, report it on the GitHub issue page so I can fix it*
-- Configed Carryon to blacklist the Tool Hook (shift right click a tool on a tripwire)
-- Configed InvMove to disallow movement while the clipboard ui is open
-- Configed Ambient Sounds to mute the birds & crickets
-- Removed unnecessary dependency
-
-# 1.1.1
-- Added 1 Splash
-- Added 2 Images to the Gallery
-- Configed HMI to blacklist the Pipe wrench, Moss Carpet, and Pale Moss Carpet
-- Configed Carryon to blacklist Sprinklers, Slicers, All Cabinets, Counters, etc (including everycomp versions)
-- Configed Essential Mod to (by default) keep Cosmetics visible no matter what
-- Configed Everycomp to remove Tradeworks from the blacklist
+# 1.2.1
+- Added Rebind Narrator
+- Updated 19 Mods
+- Fixed reset configs (Carryon, HMI)
+- Fixed missing button whilst in another players hosted world
+- Configed Default keybinds (Narrator is now CTRL + N)
+- Configed Better Modlist to hide Configs for mods that could easily be broken if messed with
+- Configed Amendments to disable the Hotbar animation, and 3d Snowballs & Fire charges
+- Removed playerAnimator (defunct)
 
 # 1.2
 - **Added Create: Redstone Link GUI**
@@ -44,12 +28,28 @@
 - Configed VB so you can access all items in bundles instead of the first 12
 - Configed HMI to blacklist Straw Beds, Shelf Mushrooms, and Copper Golems
 
-# 1.2.1
-- Added Rebind Narrator
-- Updated 19 Mods
-- Fixed reset configs (Carryon, HMI)
-- Fixed missing button whilst in another players hosted world
-- Configed Default keybinds (Narrator is now CTRL + N)
-- Configed Better Modlist to hide Configs for mods that could easily be broken if messed with
-- Configed Amendments to disable the Hotbar animation, and 3d Snowballs & Fire charges
-- Removed playerAnimator (defunct)
+# 1.1.1
+- Added 1 Splash
+- Added 2 Images to the Gallery
+- Configed HMI to blacklist the Pipe wrench, Moss Carpet, and Pale Moss Carpet
+- Configed Carryon to blacklist Sprinklers, Slicers, All Cabinets, Counters, etc (including everycomp versions)
+- Configed Essential Mod to (by default) keep Cosmetics visible no matter what
+- Configed Everycomp to remove Tradeworks from the blacklist
+
+# 1.1
+- Added 4 Splashes
+- **Added Create: Access Denied**
+- **Added Create: Deep Seas**
+- Updated 23 Mods
+- Updated Better Leaves (for upcoming update)
+- Fixed Essential Mod icon/button placement
+- Fixed Betterclouds Config
+- Configed HMI to blacklist Hanging Signs, All of Create and its Addons
+  - *If an item looks wrong/broken in your hand, report it on the GitHub issue page so I can fix it*
+- Configed Carryon to blacklist the Tool Hook (shift right click a tool on a tripwire)
+- Configed InvMove to disallow movement while the clipboard ui is open
+- Configed Ambient Sounds to mute the birds & crickets
+- Removed unnecessary dependency
+
+# 1.0
+- Initial Release
